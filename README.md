@@ -9,7 +9,7 @@
 </div>
 <br><br>
 
-<h2 align="left">📬 Connect with me:</h2>
+<h1 align="left">📬 Connect with me:</h1>
 <br>
 
 
