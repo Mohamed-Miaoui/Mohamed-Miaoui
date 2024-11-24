@@ -2,11 +2,7 @@
 
 ###
 
-<p align="left" style="border: solid thin #656c7675;
-    padding: 10px;
-    border-radius: 5px;
-    margin-bottom: 50px;
-    font-size: 18px;">I'm a versatile and motivated Full Stack Developer with a passion for building scalable web applications and crafting user-friendly experiences. With a strong foundation in both front-end and back-end technologies, I enjoy turning complex problems into simple, beautiful, and intuitive designs. I’m always eager to learn new technologies and improve my skills through hands-on projects.</p>
+<p align="left" >I'm a versatile and motivated Full Stack Developer with a passion for building scalable web applications and crafting user-friendly experiences. With a strong foundation in both front-end and back-end technologies, I enjoy turning complex problems into simple, beautiful, and intuitive designs. I’m always eager to learn new technologies and improve my skills through hands-on projects.</p>
 
 ###
 
