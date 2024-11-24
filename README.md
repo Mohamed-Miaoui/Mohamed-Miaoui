@@ -109,10 +109,9 @@
   <img src="https://github-profile-trophy.vercel.app?username=Mohamed-Miaoui&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-
+<br>
 
 <div align="center">
   <img height="250" src="https://media0.giphy.com/media/vrxxqQbyRxYi6scCjT/200.webp?cid=ecf05e47o8clwlhmwr6pkca4fxmrtgsuyniniwsbreh4lmkx&ep=v1_gifs_search&rid=200.webp&ct=g"  />
 </div>
-<br><br>
-###
+
