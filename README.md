@@ -2,8 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://your-image-link-here.jpg" alt="Passionate Full Stack Developer" width="500"/>
-  <iframe src="https://giphy.com/embed/QNFhOolVeCzPQ2Mx85" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/checkmatedigital-code-coding-monkey-QNFhOolVeCzPQ2Mx85">via GIPHY</a></p>
+  <img src="[https://your-image-link-here.jpg](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjcza2RxNWd4dXZhOWgwcmp1ZmQ2MDN5cWlybGk0djRsZ2Fxcms1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QNFhOolVeCzPQ2Mx85/giphy.webp)" alt="Passionate Full Stack Developer" width="500"/>
 </p>
 
 <p align="left">
