@@ -10,7 +10,6 @@
 <br><br>
 
 <h1 align="left">📬 Connect with me:</h1>
-<br>
 
 
 <br clear="both">
