@@ -4,17 +4,17 @@
 
 <p align="center">I'm a versatile and motivated Full Stack Developer with a passion for building scalable web applications and crafting user-friendly experiences. With a strong foundation in both front-end and back-end technologies, I enjoy turning complex problems into simple, beautiful, and intuitive designs. I’m always eager to learn new technologies and improve my skills through hands-on projects.</p>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-miaoui&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-miaoui" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamed-miaoui" alt="mohamed-miaoui" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+###
 
 <div align="center">
   <img height="350" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHh1Ym9ibzh3OGkyYmdnZHFqdzZyNDRpYzRwbDIwajRnYTB4ZGJnNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.webp"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Miaoui&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed-Miaoui&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -95,5 +95,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Mohamed-Miaoui/Mohamed-Miaoui/output/snake.svg" alt="Snake animation" />
 
 ###
