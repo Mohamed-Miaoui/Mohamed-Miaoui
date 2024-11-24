@@ -4,7 +4,14 @@
 
 <p align="center">I'm a versatile and motivated Full Stack Developer with a passion for building scalable web applications and crafting user-friendly experiences. With a strong foundation in both front-end and back-end technologies, I enjoy turning complex problems into simple, beautiful, and intuitive designs. I’m always eager to learn new technologies and improve my skills through hands-on projects.</p>
 
-###
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-miaoui&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-miaoui" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamed-miaoui" alt="mohamed-miaoui" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
 <div align="center">
   <img height="350" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHh1Ym9ibzh3OGkyYmdnZHFqdzZyNDRpYzRwbDIwajRnYTB4ZGJnNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.webp"  />
