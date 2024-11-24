@@ -1,17 +1,17 @@
 <h1 align="left">Hi 👋! My name is Mohamed Miaoui and I'm a Full stack developer</h1>
 
-<h4  align="left" >I'm a versatile and motivated Full Stack Developer with a passion for building scalable web applications and crafting user-friendly experiences. With a strong foundation in both front-end and back-end technologies. I’m always eager to learn new technologies and improve my skills through hands-on projects.</h4>
+<p  align="left" >I'm a versatile and motivated Full Stack Developer with a passion for building scalable web applications and crafting user-friendly experiences. With a strong foundation in both front-end and back-end technologies. I’m always eager to learn new technologies and improve my skills through hands-on projects.</p>
 <br><br>
 
 
 <div align="center">
   <img height="500" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGF2NTlrNDR1NHBwanVhMXRiamN5OGFzeW83a2FtYWxvbno5anFqdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.webp"  />
 </div>
-
+<br><br>
 ###
 
 <h2 align="left">📬 Connect with me:</h2>
-
+<br><br>
 ###
 
 <br clear="both">
@@ -24,11 +24,11 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="68" height="50" alt="linkedin logo"  />
   </a>
 </div>
-
+<br><br>
 ###
 
 <h2 align="left">🛠️ Languages and Tools:</h2>
-
+<br><br>
 ###
 
 <div align="left">
@@ -92,28 +92,28 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="49" alt="flutter logo"  />
 </div>
-
+<br><br>
 ###
 
 <h2 align="left">🚀 Github Stats:</h2>
-
+<br><br>
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Miaoui&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed-Miaoui&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
+<br><br>
 ###
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=Mohamed-Miaoui&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
-
+<br><br>
 ###
 
 <div align="center">
   <img height="250" src="https://media0.giphy.com/media/vrxxqQbyRxYi6scCjT/200.webp?cid=ecf05e47o8clwlhmwr6pkca4fxmrtgsuyniniwsbreh4lmkx&ep=v1_gifs_search&rid=200.webp&ct=g"  />
 </div>
-
+<br><br>
 ###
