@@ -1,12 +1,12 @@
 <h1 align="left">Hi 👋! My name is Mohamed Miaoui and I'm a Full stack developer</h1>
-<p style="color : Blue"; align="left" >I'm a versatile and motivated Full Stack Developer with a passion for building scalable web applications and crafting user-friendly experiences. With a strong foundation in both front-end and back-end technologies. I’m always eager to learn new technologies and improve my skills through hands-on projects.</p>
-<br><br>
+<h6 align="left" >I'm a versatile and motivated Full Stack Developer with a passion for building scalable web applications and crafting user-friendly experiences. With a strong foundation in both front-end and back-end technologies. I’m always eager to learn new technologies and improve my skills through hands-on projects.</h6>
+<br>
 
 
 <div align="center">
   <img height="500" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGF2NTlrNDR1NHBwanVhMXRiamN5OGFzeW83a2FtYWxvbno5anFqdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.webp"  />
 </div>
-<br><br>
+<br>
 
 <h1 align="left">📬 Connect with me:</h1>
 
