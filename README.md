@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Mohamed Miaoui and I'm a Full stack developer</h1>
+<h1 align="center">Hi 👋! My name is Mohamed Miaoui and I'm a Full stack developer</h1>
 <br>
 <p align="left" >I'm a versatile and motivated Full Stack Developer with a passion for building scalable web applications and crafting user-friendly experiences. With a strong foundation in both front-end and back-end technologies. I’m always eager to learn new technologies and improve my skills through hands-on projects .</p>
 <br>
